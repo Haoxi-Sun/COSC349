@@ -1,4 +1,4 @@
-# COSC349
+# COSC349 (Completed in 2020)
 In this paper we will learn about the fundamental principles and technologies used to build cloud computing platforms and applications hosted in the cloud. We will explore how cloud computing works, how it is evolving, and how to best use it. This paper will teach you about the fundamental technologies used by cloud computing providers to build their platforms. You will also learn how to redesign software to use cloud computing.
 ## Assignment 1
 ### Learning objectives
